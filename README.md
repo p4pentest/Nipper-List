@@ -13,7 +13,8 @@ Router - containing all router configuration files
 Extract the ZIP file.
 
 EDIT THE FILE 'nipperlist' :
-CHANGE THE BELOW LOCATION WITH THE NEW LOCATION OF THE FILE : General_Nipper_Review_Report_26-11-2015.xlsx
+
+CHANGE THE BELOW LOCATION WITH THE NEW LOCATION OF THE FILE 'General_Nipper_Review_Report_26-11-2015.xlsx'
 
 /home/Scripts/Nipper_List/General_Nipper_Review_Report_26-11-2015.xlsx
 
